@@ -1,2 +1,9 @@
-# Crypto-currency-pric--tracker
-A web scraping and data visualization project that collects cryptocurrency prices from CoinMarketCap using Selenium, stores the data in CSV format, and displays it through an interactive Streamlit dashboard with search, charts, and automatic updates
+# Crypto Price Tracker
+
+A cryptocurrency tracking dashboard built with Python, Selenium, Pandas, and Streamlit.
+Features:
+- Web scraping from CoinMarketCap
+- CSV data storage
+- Search functionality
+- Price charts
+- Auto-refresh dashboard
